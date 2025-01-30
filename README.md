@@ -1,1 +1,1 @@
-# Estrutura-de-Decisao-Informatic
+# Estrutura-de-Decisao-Informati
